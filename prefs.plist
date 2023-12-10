@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>token</key>
+	<string>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJlNWJlN2RkMzM3NjU0N2U1OTA0ODkyMzFjYjhmMzczNiIsImlhdCI6MTcwMjEzMzAxNCwiZXhwIjoyMDE3NDkzMDE0fQ.cRrqwGTd1cJDhGqP4-V3HrysSXZHKUjvZQpuqnu9p1U</string>
+	<key>url</key>
+	<string>http://192.168.188.79:8123</string>
+</dict>
+</plist>
